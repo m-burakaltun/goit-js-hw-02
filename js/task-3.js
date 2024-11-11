@@ -1,2 +1,2 @@
 'use strict';
-function checkForSpam(message){}
+function checkForSpam(message){ }//
